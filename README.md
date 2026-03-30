@@ -20,4 +20,4 @@ This project reads a list of passwords from a file and evaluates their strength.
 Create a file named `passwords.txt` with one password per line.
 
 ## Execution
-python main.py
+python pswrdcheck.py
